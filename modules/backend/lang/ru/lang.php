@@ -75,7 +75,7 @@ return [
         'widget_inspector_title' => 'Конфигурации виджета',
         'widget_inspector_description' => 'Настройка отображения виджета',
         'widget_columns_label' => 'Ширина :columns',
-        'widget_columns_description' => 'Ширина виджета может варьироваться от 1 до 10.',
+        'widget_columns_description' => 'Ширина виджета может варьироваться от 1 до 12.',
         'widget_columns_error' => 'Пожалуйста, выберите ширину виджета.',
         'columns' => '{1} колонка|[2,4] колонки|[5,Inf] колонок',
         'widget_new_row_label' => 'Новая строка',
